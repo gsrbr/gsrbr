@@ -10,3 +10,7 @@ I'm a Brazilian developer and I'm passionate about technology, and I do everythi
 
 ## Find me 🌎:
 - <a href="https://www.linkedin.com/in/gsrbr/">My Linkedin</a> 💼
+
+## My public project:
+- <a href="http://cardgamesearcher.com/">Card Game Searcher</a>
+  - A card searcher for Gundam and One Piece TCGs.
